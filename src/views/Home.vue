@@ -26,8 +26,8 @@
                 I am a fullstack Javascript developer who has a huge appetite
                 for learning. I enjoy the diverse challenges that come with
                 developing. Some of my favorite tools to use are ReactJS, VueJS
-                and React Native. When I'm not developing, enjoy learning
-                languages such as Japanese and Korean, playing music,
+                , React Native and MySQL. When I'm not developing, I enjoy
+                learning languages, such as Japanese and Korean, playing music,
                 volunteering and crafting. Whether it's coding, or a hobby, I'm
                 always learning something new!
                 <!-- </h3> -->
@@ -51,7 +51,7 @@ export default {
 
 <style scoped>
 .header {
-  height: 95vh;
+  height: 90vh;
   background-image: linear-gradient(
       to right bottom,
       hsla(300, 61%, 77%, 0.776),
