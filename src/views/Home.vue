@@ -30,7 +30,6 @@
                 learning languages, such as Japanese and Korean, playing music,
                 volunteering and crafting. Whether it's coding, or a hobby, I'm
                 always learning something new!
-                <!-- </h3> -->
               </v-card-text>
             </v-card>
           </v-col>
@@ -45,7 +44,7 @@
 
 export default {
   name: "Home",
-  components: {}
+  components: {},
 };
 </script>
 
